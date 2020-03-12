@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="vers_o_0_0_1">Versão 0.0.1</string>
+    <string name="seja_bem_vindo">Seja bem-vindo!</string>
+    <string name="identifique_se">Identifique-se</string>
+    <string name="continuar">Continuar</string>
+    <string name="localizacao_nao_disponivel">Localização não disponível</string>
+</resources>
